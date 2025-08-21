@@ -15,4 +15,18 @@ cats are in fact the most moz (Mozi) and lux (Luxor/Luksor) entities in the Plan
 July, being the cats' birthday. Mozi's name comes from the Turkish slang "mozik" that means a 1-year-old calf, and Luxor/Luksor's
 name comes from the ancient Egyptian city "Luxor".
 
-*On average; most humans on Earth are Moz and most mozs and luxes are 60% of that type.
+*Here is an entity's Mozluxologic status according to its Mozluxologic percentage:
+
+100% Moz, 0% Lux - Impossible
+99-95% Moz, 1-5% Lux - Most Moz Entity Possible
+95-90% Moz, 5-10% Lux - Homo-Moz
+90-55% Moz, 10-45% Lux - Hetero-Moz
+55-50% Moz, 45-50% Lux - Bi-Moz
+50% Moz, 50% Lux - Mozlux or Lumo
+45-50% Moz, 55-50% Lux - Bi-Lux
+10-45% Moz, 90-55% Lux - Hetero-Lux
+95-90% Moz, 5-10% Lux - Homo-Lux
+1-5% Moz, 99-95% Lux - Most Lux Entity Possible
+0% Moz, 100% Lux - Impossible
+
+On average; most humans on Earth are Moz and most mozs and luxes are 60% of that type.
